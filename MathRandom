@@ -12,7 +12,7 @@ public class Sample
         a = (int)(Math.random()* 10 + 1);
         b = (int)(Math.random()* 10 + 1);
         
-        answer = a + b;
+        answer = a / b;
         
         System.out.println("" + a + " + " + b + " = " + answer);
         
